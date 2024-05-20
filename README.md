@@ -14,12 +14,19 @@ Hey there! Welcome to my GitHub profile! I'm Muthu Venkatesh JP.
 
 ## About Me 📝
 
-I have a passion for building awesome websites and mobile applications, and I'm constantly exploring the ever-evolving world of software development. Here are some key points about me:
+I have a passion for extracting insights from data and using them to drive informed decision-making. Here are some key points about me:
 
-- 🔨 Problem-solving is my forte, and I love working with C++ and Java.
-- 🌐 For web development, I'm well-versed in the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- 📱 When it comes to cross-platform mobile development, I've got a knack for React Native.
-- 🧠 I'm also exploring the exciting realm of machine learning, eager to discover the boundless opportunities it offers.
+- 📊 Data analysis and visualization are my forte, and I excel in tools like Python, R, SQL, Tableau, and Power BI.
+
+- 🔍 I'm well-versed in data processing techniques, including data cleaning, transformation, and exploratory data analysis.
+
+- 🧠 I have a strong foundation in statistical analysis and machine learning algorithms, which I leverage to uncover patterns and make predictions.
+
+- 📚 I'm constantly expanding my knowledge in areas like big data technologies, cloud computing, and data warehousing.
+
+- 🤝 Effective communication and collaboration are essential to me, as I believe in presenting complex data in a clear and concise manner.
+
+- 🚀 I'm always eager to take on new challenges and continuously improve my skills in the ever-evolving field of data analytics.
 
 ## Interests and Hobbies 🎯
 
@@ -97,13 +104,13 @@ Keep calm and code on! 😄🚀
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/logeshwaran-" target="_blank">
+<a href="https://www.linkedin.com/in/muthu-venkatesh-162165237/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/logeshsiva95" target="_blank">
+<a href="https://www.instagram.com/muthu_venkatesh_17/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/logeshwaran95" target="_blank">
+<a href="https://github.com/muthuvenkatesh17" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Logeshwaran395" target="_blank">
