@@ -42,43 +42,45 @@ Keep calm and code on! 😄🚀
 <h2 align="center">Programming Languages and Tools</h2>
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,r,sql,tableau,powerbi" />
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
 <h2 align="center">Data Visualization and Business Intelligence</h2>
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=excel,powerpoint,pandas,matplotlib,seaborn,plotly,bokeh" />
-</a>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-1D96F5?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 <h2 align="center">Data Processing and Machine Learning</h2>
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=numpy,scipy,scikit-learn,tensorflow,keras,aws" />
-</a>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CACC8?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 <h2 align="center">Databases and Data Warehousing</h2>
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,hadoop,spark" />
-</a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <h2 align="center">Collaboration and Version Control</h2>
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,jira,confluence" />
-</a>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 
 
 <h2>GitHub Stats</h2>
