@@ -143,7 +143,7 @@ Keep calm and code on! 😄🚀
   
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sa2airhc76krdjpckbg7e3i42y&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31r7wm7uodrgpi3duwkn7ihipnme&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
