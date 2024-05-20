@@ -39,29 +39,45 @@ Keep calm and code on! 😄🚀
 
 ## My Tech Arsenal 💻
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Programming Languages and Tools</h2>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,r,sql,tableau,powerbi" />
+</a>
 </p>
 
-<h2 align="center">Development Tools </h2>
+<h2 align="center">Data Visualization and Business Intelligence</h2>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,mysql,mongodb,php" />
-  </a>
-</p>
- 
-<h2 align="center">Platform, Services and Others </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,heroku,netlify,vscode,linux,github,postman,selenium,eclipse,xd,pr,figma" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=excel,powerpoint,pandas,matplotlib,seaborn,plotly,bokeh" />
+</a>
 </p>
 
+<h2 align="center">Data Processing and Machine Learning</h2>
 
-<br/>  
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=numpy,scipy,scikit-learn,tensorflow,keras,aws" />
+</a>
+</p>
+
+<h2 align="center">Databases and Data Warehousing</h2>
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,hadoop,spark" />
+</a>
+</p>
+
+<h2 align="center">Collaboration and Version Control</h2>
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,jira,confluence" />
+</a>
+</p>
 
 
 
