@@ -16,7 +16,7 @@ Hey there! Welcome to my GitHub profile! I'm Muthu Venkatesh JP.
 
 I have a passion for extracting insights from data and using them to drive informed decision-making. Here are some key points about me:
 
-- 📊 Data analysis and visualization are my forte, and I excel in tools like Python, R, SQL, Tableau, and Power BI.
+- 📊 Data analysis and visualization are my forte, and I excel in tools like Python, SQL, Tableau, and Power BI.
 
 - 🔍 I'm well-versed in data processing techniques, including data cleaning, transformation, and exploratory data analysis.
 
@@ -33,8 +33,7 @@ I have a passion for extracting insights from data and using them to drive infor
 Aside from coding, I have other interests and hobbies too! When I'm not deeply immersed in lines of code, you might find me:
 
 - 📝 I'm a blogger and love posting blogs on various tech topics.
-- 🎥 I'm also a YouTuber, where I post gaming videos in my free time.
-- ⚽️ Indulging in a friendly game of football with friends.
+- ⚽️ Indulging in a friendly game of Cricket with friends.
 
 ## Let's Connect! 🤝
 
