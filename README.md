@@ -8,7 +8,7 @@
 
   
 
-# Muthu Venkatesh JP - Data Analyst 👨‍💻
+# Muthu Venkatesh JP - Data Scientist | Data Analyst 👨‍💻
 
 Hey there! Welcome to my GitHub profile! I'm Muthu Venkatesh JP.
 
